@@ -1,5 +1,5 @@
 ---
 applications:
- - name: ibmlearner_translation_app
+ - name: contaDee_ibm_translation_app
    random-random: true
    memory: 64M
